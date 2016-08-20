@@ -1,5 +1,9 @@
 # photo-manager
 
+This will be a tool to manage photos, once I set it up.
+
+On [github](https://github.com/geocolumbus/photo-manager).
+
 ## Features
 
 ### Spring
